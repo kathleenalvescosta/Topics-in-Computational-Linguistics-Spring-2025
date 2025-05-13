@@ -15,3 +15,4 @@ echo "starting"
 module load python/3.8/3.8.2
 python3.8 eodeepspeech.py
 echo "finished"
+
